@@ -44,7 +44,7 @@ To test, run:
 As a bonus, create a similar program in Python.
 Start from the following skeleton:
 
-```py=
+```py
 import sys
 
 def main():
